@@ -1,8 +1,7 @@
 ---
 title: Elroy
-role: Solutions Architect
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Cloud Architect
+bio: Diving into the world of Cloud Technology.
 social:
   - icon: envelope
     icon_pack: fas
@@ -12,9 +11,9 @@ social:
     link: https://twitter.com/wowchemy
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://instagram.com/elroy.lbj
 organizations:
-  - name: 腾讯
+  - name: Google
     url: ""
 superuser: true
 status:
