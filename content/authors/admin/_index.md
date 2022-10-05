@@ -1,6 +1,6 @@
 ---
 title: Elroy
-role: 数据科学家
+role: Solutions Architect
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
